@@ -1,4 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Hansda <img src='https://miro.medium.com/v2/resize:fit:564/1*Erk4NawQOHkf4wSN7JmB_A.jpeg' height="100px" width="100px"  border-radius="50%"/></h1>
+<h1 align="center">
+  Hi 👋, I'm Abhishek Kumar Hansda 
+  <div style="
+        width: 100px;
+        height: 100px;
+        background-image: url('https://miro.medium.com/v2/resize:fit:564/1*Erk4NawQOHkf4wSN7JmB_A.jpeg');
+        background-position: center;
+        border-radius: 50%;
+        display: inline-block;
+      ">
+  </div>
+</h1>
 <h3 align="center">A Third year student passionate about Software</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekkrhansda" alt="abhishekkrhansda" /></a> </p>
