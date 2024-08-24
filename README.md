@@ -30,7 +30,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishek kumar hansda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek kumar hansda" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/abhishek_hansda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhishek_hansda/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/abhishek_hansda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhishek_hansda/" height="30" width="40" /></a>
+
 <a href="https://www.geeksforgeeks.org/user/abhishekkuma9q9v/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/" height="30" width="40" /></a>
 </p>
 
