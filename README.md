@@ -11,7 +11,7 @@
 
 <p align="left" gap="10px"> <a href="https://twitter.com/abhishek kumar hansda" target="blank"><img src="https://img.shields.io/twitter/follow/abhishek kumar hansda?logo=twitter&style=for-the-badge" alt="abhishek kumar hansda" /></a> </p>
 
-- 🔭 I’m currently working on **Gate-Routine-Scheduler**
+- 🔭 I’m currently working on **HOW TO GET OUT OF MY FAILURE PHASE**
 
 - 💬 Ask me about **react,c++,node**
 
