@@ -17,12 +17,12 @@
 
 - 📫 How to reach me **abhishekkr200098@gmail.com**
 
-- ⚡ Fun fact **I am Boring as Hell.**
+- ⚡ Fun fact **I am failure ^ failure.**
 
 
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTenFmOvA47rkZRwt_-P6qClTLEHLUw3r4BKQ&s" align="right" height="250px" width= "400px" border-radius="20%"/>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">If any of you want to Connect with a Failure Connect with me here:</h3>
 <p align="left">
 <a href="https://twitter.com/abhishek kumar hansda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abhishek kumar hansda" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/abhishek_hansda/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/abhishek_hansda/" height="30" width="40" /></a>
